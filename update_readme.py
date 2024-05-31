@@ -6,7 +6,7 @@ GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 USERNAME = 'xxxDIDIERxxx'
 
 def get_repositories(username):
-    url = f'https://api.github.com/users/{username}/repos'
+    url = f'https://api.github.com/users/{xxxDIDIERxxx}/repos'
     headers = {
         'Authorization': f'token {GITHUB_TOKEN}'
     }
