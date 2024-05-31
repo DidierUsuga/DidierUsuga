@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/didier-usuga"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@xxxDIDIERxxx"/></a>
     <a href = "mailto:sebastian.zuluaga2003@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@xxxDIDIERxxx" /></a>
-  </p>
+</p>
 
 <br>
 <h2 align="center">Un poco sobre mi </h2>
@@ -44,7 +44,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,docker,git,github,vscode,idea,figma" />
   </a>
-
 </p>
 
 <h2>GitHub</h2>
@@ -57,4 +56,12 @@
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxDIDIERxxx&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning android in dicoding.com with kotlin
-</p>        
+</p>
+
+### My Projects ✨:
+<!-- REPOS_START -->
+<!-- REPOS_END -->
+
+<div align="center">
+  
+</div>
