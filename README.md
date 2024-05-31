@@ -20,7 +20,7 @@
 
 💻 Tengo experiencia trabajando con Java | Spring framework | Angular
 
-📫 Contacto: **sebastian.zuluaga2003@gmail.com**
+📫 Contacto: **udidierandres@gmail.com**
 
 <h2 align="center">Tecnologías conocidas</h2>
 
@@ -62,7 +62,7 @@
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xxxdidierxxx&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xxxDIDIERxxx&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
