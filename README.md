@@ -27,12 +27,12 @@
 <p align="center">
   <h2>Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,laravel" />
   </a>
 
   <h2>Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,kafka,laravel" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven" />
   </a>
 
   <h2>Database</h2>
@@ -42,7 +42,7 @@
 
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,vscode,idea,figma" />
   </a>
 
 </p>
