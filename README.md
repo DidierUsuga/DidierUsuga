@@ -57,11 +57,3 @@
 
 🌱 I’m currently learning android in dicoding.com with kotlin
 </p>
-
-### My Projects ✨:
-<!-- REPOS_START -->
-<!-- REPOS_END -->
-
-<div align="center">
-  
-</div>
