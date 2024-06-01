@@ -55,5 +55,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxxDIDIERxxx&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxDIDIERxxx&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning android in dicoding.com with kotlin
 </p>
