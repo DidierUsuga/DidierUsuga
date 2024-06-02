@@ -41,7 +41,7 @@
 
   <h2>Database</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 
   <h2>Tools</h2>
