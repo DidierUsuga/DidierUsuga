@@ -10,8 +10,8 @@
 <br>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/didier-usuga"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@xxxDIDIERxxx"/></a>
-    <a href = "mailto:sebastian.zuluaga2003@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@xxxDIDIERxxx" /></a>
+    <a href="https://www.linkedin.com/in/didier-usuga"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@DidierUsuga"/></a>
+    <a href = "mailto:udidierandres@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@DidierUsuga" /></a>
 </p>
 
 <br>
@@ -55,8 +55,8 @@
 <p align="center">
   
 ## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=xxxDIDIERxxx&show_icons=true&theme=tokyonight)
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=DidierUsuga&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxxDIDIERxxx&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxDIDIERxxx&theme=tokyonight&layout=compact)
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DidierUsuga&theme=tokyonight&layout=compact)
 
 </p>
