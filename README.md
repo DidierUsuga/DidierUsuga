@@ -31,7 +31,7 @@
 <p align="center">
   <h2>Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,typescript" />
+    <img src="https://skillicons.dev/icons?i=angular,html,css,js,typescript,bootstrap,tailwindui" />
   </a>
 
   <h2>Back End</h2>
