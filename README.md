@@ -22,7 +22,7 @@
 
 📝 Desarrollador de software, proactivo y autodidacta. Apasionado por la tecnologia
 
-💻 Tengo experiencia trabajando con Java | Spring framework | Angular
+💻 Tengo experiencia trabajando con Angular | Java | Spring Boot | Hibernate | Maven | SqlServer | MySQL | PostgreSQL
 
 📫 Contacto: **udidierandres@gmail.com**
 
